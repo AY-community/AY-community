@@ -9,8 +9,8 @@
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=a78bfa)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=AY-community&color=a78bfa&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/AY-community?label=Followers&style=flat-square&color=a78bfa)](https://github.com/AY-community)
 
 </div>
 
@@ -61,12 +61,12 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AY-community&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AY-community&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AY-community&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,8 +76,8 @@ const developer = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AY-community&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/AY-community/YOUR_REPO_1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=AY-community&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/AY-community/YOUR_REPO_2)
 
 </div>
 
