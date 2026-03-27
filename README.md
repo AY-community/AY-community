@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Building%20for%20the%20Web&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Aymen%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Building%20for%20the%20Web&descAlignY=58&descSize=16" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2F+Next.js+Enthusiast;Node+%2B+Express+Backend;MongoDB+Data+Architect;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 
 ```ts
 const developer = {
-  name:      "Your Name",
+  name:      "Aymen Chedri Mammar",
   role:      "Full Stack Developer",
   location:  "🌍 Your City, Country",
   focus:     ["Web Apps", "REST APIs", "UI/UX"],
